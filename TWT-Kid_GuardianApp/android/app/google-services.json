@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645498166847",
+    "project_id": "twt-kid-guardianapp-738e4",
+    "storage_bucket": "twt-kid-guardianapp-738e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645498166847:android:b38bd811795c0de4dc628a",
+        "android_client_info": {
+          "package_name": "com.trustedweartech.GuardianApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645498166847-qfs1ec4dcqbni4id6mlkt04cvmqgvkll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trustedweartech.GuardianApp",
+            "certificate_hash": "ab5f08ab3fda6f423cb2615b1a64576a8af5845a"
+          }
+        },
+        {
+          "client_id": "645498166847-8cpeird38dm1m3kuvc32qjck2b05ov9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXMAzS2HGuY8GvSq7RDc7lyc1NT9e9cxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645498166847-8cpeird38dm1m3kuvc32qjck2b05ov9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

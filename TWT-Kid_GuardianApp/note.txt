@@ -1,0 +1,13 @@
+Navigation:-
+        1. Health
+        2. Survilliance 
+Home Page:- 
+    icon size small 75%
+
+Footer:- 
+   1. Survilliance icon
+   2. Health
+
+Oxygen:- 
+   1. Min and Max 
+   
